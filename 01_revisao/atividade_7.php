@@ -1,10 +1,11 @@
 <?php
 
 $alunos = [
-    "Roberto" => 7.0,
-    "Maria" => 9.5,
-    "João" => 8.0,
-    "Ana" => 6.5
+    "Ana" => 8.5,
+    "Bruno" => 7.0,
+    "Carla" => 9.2,
+    "Roberto" => 6.8,
+    "Eduardo"=> 8.0
 ];
 
 $soma = 0;
