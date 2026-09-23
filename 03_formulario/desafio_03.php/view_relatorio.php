@@ -10,7 +10,7 @@
 <body>
 
     <h1>Compra de Ingressos</h1>
-    <p><strong>Nome:</strong> <?= $nome ?></p>
+    <p><strong>Nome do Cliente:</strong> <?= $nome_cliente ?></p>
     <p><strong>Filme:</strong> <?= $filme ?></p>
     <p><strong>Quantidade de ingressos:</strong> <?= $qtd_ingresso ?></p>
     <p><strong>Tipo de ingresso:</strong> <?= $tipo ?></p>
