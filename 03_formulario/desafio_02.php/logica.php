@@ -34,4 +34,3 @@ $valorDesconto = $total * ($desconto/100);
 $total = $total - $valorDesconto;
 require_once 'view_relatorio.php';
 
-?>
